@@ -22,7 +22,7 @@ const Navbar = () => {
                <a href="http://github.com">
                
                 <button className='text-white bg-green-700 my-5 mx-2 rounded-full flex  justify-between items-center ring-white ring-1'> 
-                    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" className="w-6 h-6" />
+                    
                     <span className='font-bold px-2'>GitHub</span>
                     
                 </button>
