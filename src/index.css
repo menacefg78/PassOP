@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #root {
+  height: 100%;
+}
+
+@layer components{
+  .mycontainer{
+    @apply container px-40 py-16 mx-auto w-4/5;
+  }
+}
